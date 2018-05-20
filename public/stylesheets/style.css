@@ -4,8 +4,7 @@ body {
 }
 
 a {
-  border:3px solid black;
-  background-color:#e81324;
+  border:2px solid black;
   font-weight:bold;
 }
 
@@ -19,27 +18,5 @@ h1{
   margin-bottom:50px;
 }
 
-.grow { transition: all .2s ease-in-out; }
-.grow:hover { transform: scale(1.1); }
-
-#creditslink{
-  font-size:1em;
-  color:white;
-  padding:10px;
-}
-
-#creditslink:hover{
-  text-decoration:none;
-}
-
-#quizlistlink{
-  font-size:1.2em;
-  color:white;
-  padding:10px;
-}
-
-#quizlistlink:hover{
-  text-decoration:none;
-}
 
 
